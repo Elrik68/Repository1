@@ -3,4 +3,5 @@ public class Calcul {
     int b = a + 1;
     int c = a - 1;
     int d = a + 2;
+    int e;
 }
